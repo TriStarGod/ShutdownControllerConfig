@@ -1,4 +1,4 @@
 0
 plum:1
-omega:1
+omega:0
 omni:1
