@@ -1,4 +1,2 @@
 0
-plum:1
-omega:0
-omni:1
+plum:0
