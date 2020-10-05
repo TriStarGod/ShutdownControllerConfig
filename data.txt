@@ -1,2 +1,2 @@
-off
-plum:on
+shutdown
+plum:ignore
