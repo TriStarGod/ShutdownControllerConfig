@@ -1,2 +1,2 @@
 16:45|none|17:45|shutdown|18:45|shutdown
-omega:2020/10/05 16:45|awake|22:44|none|22:45|shutdown
+omega:2020/10/05 16:45|awake|22:44|none|2020/10/05 22:45|shutdown
