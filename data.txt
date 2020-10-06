@@ -1,2 +1,2 @@
-16:45|active|17:45|none|20:45|shutdown
-plum:2020/10/05 16:45|active
+16:45|awake|17:45|none|18:45|shutdown
+plum:2020/10/05 16:45|awake
