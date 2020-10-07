@@ -1,4 +1,4 @@
-# ShutdownControllerConfig
+# Shutdown Controller Config
 ## ARGS spec
 ACTION can be none, shutdown, or awake
 DATE and/or MILITARY TIME|ACTION ie 2020/10/01 13:00|shutdown or 14:00|none or 2020/10/02|awake
