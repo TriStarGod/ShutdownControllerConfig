@@ -2,3 +2,4 @@
 plum:2020/10/07 16:45|awake|2020/10/07 17:45|none|2020/10/07 17:50|shutdown
 omega:2020/10/05 16:45|awake|22:44|none|2020/10/05 22:45|shutdown
 ash:2020/12/03 16:45|awake|22:44|none|2020/10/05 22:45|shutdown
+chocolate:2021/03/30 16:45|awake|22:44|none|2021/03/30 22:45|shutdown
